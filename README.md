@@ -8,11 +8,11 @@
 This Arduino project demonstrates a simulated vehicle gate system using an Arduino Uno board in conjunction with an IR sensor and a servo motor. The project uses a creatively engineered gate, fashioned from a wooden spoon, which is controlled by the servo motor. The IR sensor detects the presence of vehicles (represented by toy cars) and signals the servo motor to open or close the gate accordingly.
 ## Components Used
 
-    Arduino Uno: Serves as the control unit for the gate system.
-    IR Sensor: Detects the proximity of the vehicle to the gate.
-    Servo Motor: Operates the wooden spoon gate.
-    Toy Vehicles: Used to demonstrate the functioning of the gate system.
-    Wooden Spoon: Innovatively used as the barrier for the gate.
+    --Arduino Uno: Serves as the control unit for the gate system.
+    --IR Sensor: Detects the proximity of the vehicle to the gate.
+    --Servo Motor: Operates the wooden spoon gate.
+    --Toy Vehicles: Used to demonstrate the functioning of the gate system.
+    --Wooden Spoon: Innovatively used as the barrier for the gate.
 
 ## Operation
 
