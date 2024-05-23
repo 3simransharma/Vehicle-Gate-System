@@ -1,8 +1,8 @@
-# Arduino Vehicle Gate System <a href="https://youtu.be/czy88b45myI?feature=shared" target="_blank"><img src="https://img.shields.io/badge/Watch-YouTube-red.svg?logo=youtube&style=for-the-badge" alt="Watch on YouTube"></a>
+# Arduino Vehicle Gate System <a href="https://youtu.be/gGjzxM555AI?feature=shared" target="_blank"><img src="https://img.shields.io/badge/Watch-YouTube-red.svg?logo=youtube&style=for-the-badge" alt="Watch on YouTube"></a>
 
 ## Project Overview
 
-[![Watch the video](https://img.youtube.com/vi/czy88b45myI/maxresdefault.jpg)](https://youtu.be/czy88b45myI?feature=shared)
+![Watch the video](https://youtu.be/gGjzxM555AI?feature=shared)
 
 
 This Arduino project demonstrates a simulated vehicle gate system using an Arduino Uno board in conjunction with an IR sensor and a servo motor. The project uses a creatively engineered gate, fashioned from a wooden spoon, which is controlled by the servo motor. The IR sensor detects the presence of vehicles (represented by toy cars) and signals the servo motor to open or close the gate accordingly.
